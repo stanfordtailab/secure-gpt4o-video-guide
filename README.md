@@ -1,7 +1,6 @@
 # 🛡️ SecureGPT for Video Understanding  
 _A simple guide for using Stanford Health Care's Secure GPT-4o to analyze local video files privately_
 
-**Author:** Hee Jung Choi  
 **Lab use only | HIPAA-conscious**
 
 ---
