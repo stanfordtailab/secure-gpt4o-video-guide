@@ -42,3 +42,21 @@ This short Python notebook demonstrates how to use Stanford Health Care & Stanfo
    In the code cells that define `headers`, replace:
    ```python
    "Ocp-Apim-Subscription-Key": "XXX"
+with your valid SHC API key.
+
+4. Edit the video path
+Replace this line:
+
+video = cv2.VideoCapture("/path/to/your/video.mov")
+
+with the full local path to your video.
+
+5. Run the notebook
+
+- First, it checks connectivity with GPT-4o.
+
+- Then, it loads and encodes frames from the video.
+
+- Finally, it sends a subset of those frames and prints out a suggested caption/description.
+
+
