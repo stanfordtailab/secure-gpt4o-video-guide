@@ -36,7 +36,7 @@ This short Python notebook shows how to use Stanford Health Care & Stanford Scho
 
 1. **Check your network**
    - If you are on campus, you are already connected to the Stanford network.
-   - If you are off campus, [connect to the Stanford VPN](https://www.uit.stanford.edu/service/vpn) before running this notebook.
+   - If you are off campus, [connect to the Stanford VPN](https://uit.stanford.edu/service/vpn) before running this notebook.
 
 2. **Set up your environment**
    - Python 3.8+
